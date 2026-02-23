@@ -1,0 +1,401 @@
+text,label
+I love coding,tech
+I enjoy programming,tech
+I like building software,tech
+I want to become a software engineer,tech
+I enjoy working with computers,tech
+Technology excites me,tech
+I like artificial intelligence,tech
+I want to work in AI,tech
+I enjoy machine learning,tech
+I like data science,tech
+I enjoy solving coding problems,tech
+I like developing apps,tech
+I want to create mobile applications,tech
+I enjoy web development,tech
+I like frontend development,tech
+I enjoy backend programming,tech
+I like full stack development,tech
+I want to build websites,tech
+I enjoy cloud computing,tech
+I like cybersecurity,tech
+I enjoy ethical hacking,tech
+I like network security,tech
+I enjoy robotics,tech
+I like automation,tech
+I enjoy Internet of Things,tech
+I like embedded systems,tech
+I enjoy computer hardware,tech
+I like operating systems,tech
+I enjoy database management,tech
+I like SQL and databases,tech
+I enjoy system design,tech
+I like DevOps,tech
+I enjoy software testing,tech
+I like debugging programs,tech
+I enjoy writing algorithms,tech
+I like solving logical problems,tech
+I enjoy competitive programming,tech
+I like Python programming,tech
+I enjoy Java development,tech
+I like C++ programming,tech
+I enjoy coding challenges,tech
+I like open source projects,tech
+I enjoy building APIs,tech
+I like working with servers,tech
+I enjoy data structures,tech
+I like artificial neural networks,tech
+I enjoy deep learning,tech
+I like NLP,tech
+I enjoy computer vision,tech
+I like blockchain technology,tech
+I enjoy game development,tech
+I like AR and VR,tech
+I enjoy tech innovations,tech
+I like startups in technology,tech
+I enjoy solving technical problems,tech
+I like engineering solutions,tech
+I enjoy scripting,tech
+I like automation tools,tech
+I enjoy cloud platforms,tech
+I like AWS and Azure,tech
+I enjoy Linux systems,tech
+I like Git and version control,tech
+I enjoy building chatbots,tech
+I like AI assistants,tech
+I enjoy research in technology,tech
+I like working with big data,tech
+I enjoy data engineering,tech
+I enjoy developing software products,tech
+I like learning new programming languages,tech
+I enjoy tech competitions,tech
+I like hackathons,tech
+I enjoy building machine learning models,tech
+I like solving real world tech problems,tech
+I enjoy technical innovation,tech
+I like experimenting with code,tech
+I enjoy microservices,tech
+I like REST APIs,tech
+I enjoy frontend frameworks,tech
+I like backend frameworks,tech
+I enjoy UI and UX design in tech,tech
+I like product development,tech
+I enjoy software architecture,tech
+I like digital transformation,tech
+I enjoy automation scripts,tech
+I like technical research,tech
+I enjoy computer programming,tech
+I like data pipelines,tech
+I like working on tech projects,tech
+I enjoy developing intelligent systems,tech
+I like smart technologies,tech
+I enjoy coding applications,tech
+I like technology based problem solving,tech
+I enjoy tech entrepreneurship,tech
+I like innovation in software,tech
+I enjoy working with APIs,tech
+I like solving bugs,tech
+I like designing user interfaces,tech
+I enjoy system optimization,tech
+I like creating digital solutions,tech
+I love drawing,arts
+I enjoy painting,arts
+I like sketching,arts
+I am passionate about art,arts
+I enjoy creative work,arts
+I like designing,arts
+I enjoy visual storytelling,arts
+I like graphic design,arts
+I enjoy animation,arts
+I like fashion designing,arts
+I enjoy photography,arts
+I like filmmaking,arts
+I enjoy acting,arts
+I like theatre,arts
+I enjoy music,arts
+I like singing,arts
+I enjoy dancing,arts
+I like choreography,arts
+I enjoy creative writing,arts
+I like poetry,arts
+I enjoy storytelling,arts
+I like script writing,arts
+I enjoy painting landscapes,arts
+I like digital art,arts
+I enjoy illustration,arts
+I like interior design,arts
+I enjoy art direction,arts
+I like media production,arts
+I enjoy content creation,arts
+I like editing videos,arts
+I enjoy creative media,arts
+I like fine arts,arts
+I enjoy artistic expression,arts
+I like designing posters,arts
+I enjoy making logos,arts
+I like branding,arts
+I enjoy crafting,arts
+I like handmade art,arts
+I enjoy sculpting,arts
+I like pottery,arts
+I enjoy textile design,arts
+I like costume design,arts
+I enjoy makeup artistry,arts
+I like modeling,arts
+I enjoy creative campaigns,arts
+I like advertising design,arts
+I enjoy creative direction,arts
+I like digital media,arts
+I enjoy creative projects,arts
+I like storytelling through visuals,arts
+I enjoy aesthetic design,arts
+I like painting portraits,arts
+I enjoy creative photography,arts
+I like video editing,arts
+I enjoy cinematography,arts
+I like acting in plays,arts
+I enjoy creative performances,arts
+I like music production,arts
+I enjoy sound design,arts
+I like creative arts,arts
+I enjoy event styling,arts
+I like art exhibitions,arts
+I enjoy graphic illustration,arts
+I like creative branding,arts
+I enjoy social media creativity,arts
+I like creative marketing,arts
+I enjoy art history,arts
+I like museum curation,arts
+I enjoy fashion styling,arts
+I enjoy drawing characters,arts
+I like visual arts,arts
+I enjoy artistic innovation,arts
+I like sketch art,arts
+I enjoy digital creativity,arts
+I like filmmaking production,arts
+I enjoy screenwriting,arts
+I like stage performance,arts
+I enjoy creative expression,arts
+I like artistic projects,arts
+I enjoy media arts,arts
+I like creative storytelling,arts
+I enjoy aesthetic visuals,arts
+I enjoy creative branding,arts
+I like painting abstract art,arts
+I enjoy film editing,arts
+I like artistic photography,arts
+I enjoy music composition,arts
+I like art and culture,arts
+I enjoy drawing comics,arts
+I like illustration design,arts
+I enjoy creative freelancing,arts
+I like digital content creation,arts
+I enjoy fine art painting,arts
+I like artistic research,arts
+I enjoy creative workshops,arts
+I like multimedia design,arts
+I enjoy visual creativity,arts
+I like expressing ideas through art,arts
+I love statistics,data
+I enjoy mathematics,data
+I like working with numbers,data
+I enjoy data analysis,data
+I like probability,data
+I enjoy solving math problems,data
+I like analytics,data
+I enjoy research,data
+I like interpreting data,data
+I enjoy statistical modeling,data
+I like working with data,data
+I like quantitative analysis,data
+I enjoy working with datasets,data
+I like data visualization,data
+I enjoy Excel and spreadsheets,data
+I like predictive modeling,data
+I enjoy business analytics,data
+I like financial analysis,data
+I like analytics tools,data
+I enjoy statistical research,data
+I like analyzing trends,data
+I like predictive modeling,data
+I enjoy working with large datasets,data
+I like hypothesis testing,data
+I enjoy data driven decisions,data
+I like probability theory,data
+I enjoy regression analysis,data
+I like statistical tools,data
+I enjoy data mining,data
+I like pattern recognition,data
+I enjoy forecasting,data
+I like analytical thinking,data
+I enjoy solving numerical problems,data
+I like machine learning models,data
+I enjoy data engineering,data
+I like quantitative research,data
+I enjoy dashboards and reports,data
+I like data interpretation,data
+I enjoy business intelligence,data
+I like SQL queries,data
+I enjoy working with Python for data,data
+I like analyzing business metrics,data
+I enjoy financial forecasting,data
+I like data pipelines,data
+I enjoy experimental design,data
+I like statistical computing,data
+I enjoy econometrics,data
+I like probability distributions,data
+I enjoy working with big data,data
+I like data storytelling,data
+I enjoy insights generation,data
+I like numerical modeling,data
+I enjoy performance analysis,data
+I like market analysis,data
+I enjoy KPI tracking,data
+I like operational analytics,data
+I enjoy survey data analysis,data
+I like research methodology,data
+I enjoy statistical inference,data
+I like Bayesian analysis,data
+I enjoy time series analysis,data
+I like risk analysis,data
+I enjoy quantitative finance,data
+I like data experimentation,data
+I enjoy statistical reports,data
+I like interpreting graphs,data
+I enjoy working with charts,data
+I like analytical problem solving,data
+I enjoy structured data,data
+I like numbers and logic,data
+I enjoy analyzing performance data,data
+I like statistical programming,data
+I enjoy optimization problems,data
+I like linear algebra,data
+I enjoy mathematical modeling,data
+I like solving probability questions,data
+I enjoy analytics projects,data
+I like analyzing customer data,data
+I enjoy research analytics,data
+I like statistical evaluation,data
+I enjoy insight discovery,data
+I like analyzing patterns,data
+I enjoy data reporting,data
+I like business data analysis,data
+I enjoy working with metrics,data
+I like advanced mathematics,data
+I enjoy data exploration,data
+I like interpreting results,data
+I enjoy correlation analysis,data
+I like experimental statistics,data
+I enjoy analyzing financial data,data
+I like performance metrics,data
+I enjoy analytics tools,data
+I like scientific research,data
+I enjoy analytical research,data
+I like working with models,data
+I enjoy deriving insights,data
+I like quantitative modeling,data
+I enjoy statistical decision making,data
+I like logic based analysis,data
+I enjoy trend forecasting,data
+I like data centric work,data
+I enjoy financial modeling,data
+I enjoy analytical reasoning,data
+I like business,commerce
+I enjoy finance,commerce
+I am interested in accounting,commerce
+I like economics,commerce
+I enjoy banking,commerce
+I want to work in finance,commerce
+I like investments,commerce
+I enjoy stock market,commerce
+I am interested in trading,commerce
+I like entrepreneurship,commerce
+I enjoy business management,commerce
+I like corporate jobs,commerce
+I enjoy marketing,commerce
+I like sales,commerce
+I enjoy managing money,commerce
+I like financial planning,commerce
+I enjoy auditing,commerce
+I like taxation,commerce
+I enjoy budgeting,commerce
+I like business analytics,commerce
+I enjoy company management,commerce
+I like leadership roles,commerce
+I enjoy managing teams,commerce
+I like human resources,commerce
+I enjoy recruitment,commerce
+I like operations management,commerce
+I enjoy logistics,commerce
+I like supply chain management,commerce
+I enjoy international business,commerce
+I like business strategy,commerce
+I enjoy consulting,commerce
+I like investment banking,commerce
+I enjoy corporate finance,commerce
+I like startup management,commerce
+I enjoy managing projects,commerce
+I like brand management,commerce
+I enjoy digital marketing,commerce
+I like financial analysis,commerce
+I enjoy retail management,commerce
+I like e commerce business,commerce
+I enjoy business development,commerce
+I like portfolio management,commerce
+I enjoy wealth management,commerce
+I like risk management,commerce
+I enjoy financial consulting,commerce
+I like commercial banking,commerce
+I enjoy business law,commerce
+I like corporate governance,commerce
+I enjoy management studies,commerce
+I like business administration,commerce
+I enjoy trade and commerce,commerce
+I like profit management,commerce
+I enjoy customer relations,commerce
+I like market research,commerce
+I enjoy advertising,commerce
+I like financial reporting,commerce
+I enjoy analyzing business performance,commerce
+I like corporate strategy,commerce
+I enjoy cost management,commerce
+I like economic policies,commerce
+I like management accounting,commerce
+I enjoy corporate planning,commerce
+I like commercial activities,commerce
+I enjoy strategic planning,commerce
+I like operations research,commerce
+I enjoy economic analysis,commerce
+I like public finance,commerce
+I enjoy business communication,commerce
+I like financial services,commerce
+I enjoy business presentations,commerce
+I like negotiation,commerce
+I enjoy leadership and management,commerce
+I like commercial strategy,commerce
+I enjoy market trends,commerce
+I like corporate operations,commerce
+I enjoy business forecasting,commerce
+I like accounting principles,commerce
+I enjoy entrepreneurship ideas,commerce
+I like starting my own business,commerce
+I enjoy managing finances,commerce
+I like capital markets,commerce
+I enjoy financial decision making,commerce
+I like business research,commerce
+I enjoy commercial planning,commerce
+I like investment strategies,commerce
+I enjoy financial growth planning,commerce
+I like managing resources,commerce
+I enjoy profit analysis,commerce
+I like business networking,commerce
+I enjoy strategic marketing,commerce
+I like commercial management,commerce
+I enjoy enterprise management,commerce
+I like corporate structure,commerce
+I enjoy handling business accounts,commerce
+I like company finances,commerce
+I enjoy managing business operations,commerce
+I like revenue growth strategies,commerce
+I enjoy commercial decision making,commerce
+I like working in corporate finance,commerce
