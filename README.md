@@ -151,3 +151,6 @@ pandas
 numpy
 matplotlib
 ```
+UI:
+
+<img width="2560" height="1504" alt="image" src="https://github.com/user-attachments/assets/af7e31bd-bf2b-426d-840b-31b2e5779e9d" />
