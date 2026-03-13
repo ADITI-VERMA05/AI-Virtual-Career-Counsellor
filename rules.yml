@@ -1,0 +1,28 @@
+version: "3.1"
+
+rules:
+
+- rule: Tech interest rule
+  steps:
+  - intent: tech_interest
+  - action: action_recommend_career
+
+- rule: Arts interest rule
+  steps:
+  - intent: arts_interest
+  - action: action_recommend_career
+
+- rule: Commerce interest rule
+  steps:
+  - intent: commerce_interest
+  - action: action_recommend_career
+
+- rule: Data interest rule
+  steps:
+  - intent: data_interest
+  - action: action_recommend_career
+
+- rule: Goodbye rule
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye

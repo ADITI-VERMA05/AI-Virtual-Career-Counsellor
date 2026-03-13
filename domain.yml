@@ -1,0 +1,28 @@
+version: "3.1"
+
+intents:
+  - tech_interest
+  - arts_interest
+  - commerce_interest
+  - data_interest
+  - goodbye
+
+responses:
+  utter_tech:
+    - text: "You may explore Software Developer, AI Engineer, or Web Developer."
+
+  utter_arts:
+    - text: "You may explore Graphic Designer, Animator, or Fine Artist."
+
+  utter_commerce:
+    - text: "You may explore CA, Investment Banker, or Business Analyst."
+
+  utter_data:
+    - text: "You may explore Data Scientist, Data Analyst, or Statistician."
+    
+  utter_goodbye:
+    - text: "Goodbye! I wish you the best in your career journey 🚀"
+
+actions:
+  - action_recommend_career
+  
